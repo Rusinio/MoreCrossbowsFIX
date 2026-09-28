@@ -1,10 +1,10 @@
 ﻿{
   "name": "MoreCrossbowsFIX",
-  "description": "This is a FIX version to work in the current realease version of Valheim 1.0. Mod ORIGINALLY made by probablykory",
-  "version_number": "1.2.12",
+  "description": "This is a FIX version to work in Valheim 1.0. Mod ORIGINALLY made by probablykory",
+  "version_number": "1.2.13",
   "website_url": "https://github.com/Rusinio/MoreCrossbowsFIX",
   "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.21.2"
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
   ]
 }
